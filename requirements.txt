@@ -8,6 +8,7 @@ django-stubs-ext==5.2.8
 django-tasks==0.11.0
 djangorestframework==3.16.1
 fonttools==4.60.1
+gunicorn==25.0.3
 narwhals==2.10.1
 packaging==25.0
 pillow==11.2.1
